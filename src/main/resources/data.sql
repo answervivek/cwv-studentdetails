@@ -1,6 +1,6 @@
-insert into student values(1, 'Computer Science', 'Kindson Munonye', 'The Tech Pro', '2019-06-27');
-insert into student values(2, 'Managment', 'Kate Winston',  'The Tech Pro', '2019-06-27');
-insert into student values(3, 'Data Science', 'Solace Okeke', 'The Tech Pro', '2019-06-27');
-insert into student values(4, 'Computer Science', 'Barack Obama',  'The Tech Pro', '2019-06-27');
-insert into student values(5, 'US President', 'Donald Trump',  'The Tech Pro', '2019-06-27');
-insert into student values(6, 'Data Science', 'Jadon Mills', 'The Tech Pro', '2019-06-27');
+insert into student values(1, 'B.Tech', 'Shivam', 'Admin', '2021-06-10');
+insert into student values(2, 'B.Tech', 'Dewarshi K. Shukla',  'Admin', '2021-06-10');
+insert into student values(3, 'B.Tech', 'Manpreet Singh', 'Admin', '2021-06-10');
+insert into student values(4, 'B.Tech', 'Vishwajeet',  'Admin', '2021-06-10');
+insert into student values(5, 'IT', 'Deepak Kumar',  'Admin', '2021-06-10');
+insert into student values(6, 'Bio.Tech', 'Vivek Tripathi', 'Admin', '2021-06-10');
